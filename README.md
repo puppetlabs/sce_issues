@@ -26,8 +26,7 @@ Thank you so much for helping us improve our products!
 ### Useful resources
 
 |                                   |                                                         |
-| --------------------------------- | ------------------------------------------------------- |
-| **Getting started with CEM**      | \<add onboarding video\>                                |
+| --------------------------------- | ------------------------------------------------------- |                           
 | **CEM technical documentation**   | [Introducing the Compliance Enforcement Modules](https://puppet.com/docs/comply/2.x/cem_intro.html) |
 | **Links to modules on the Forge** | https://forge.puppet.com/modules/puppetlabs/cem_windows |
 |                                   | https://forge.puppet.com/modules/puppetlabs/cem_linux   |
