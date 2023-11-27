@@ -12,6 +12,8 @@ activity until engineering begins actively working on a reported issue.
 reports take priority. If you have a support contract, you should raise issues via
 [support request](https://support.puppet.com/) to get them resolved expediently.
 
+:bulb: Note: As this is a public repo, please avoid including any confidential or sensitive information in issues filed.
+
 ## Filing issues
 
 1. Use the [`Issues`](https://github.com/puppetlabs/cem_issues/issues) tab above to get started
