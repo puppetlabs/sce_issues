@@ -1,10 +1,10 @@
-# Public CEM Issue Reporting
+# Public SCE Issue Reporting
 
 This repository will allow public community members to file bug reports, doc change
-requests and feature request against the Compliance Enforcement Modules (CEM)
-(cem_linux and cem_windows).
+requests and feature request against the Security Compliance Enforcement modules (SCE)
+(sce_linux and sce_windows).
 
-The CEM Product and Engineering team regularly monitors and triages issues and requests
+The SCE Product and Engineering team regularly monitors and triages issues and requests
 here. Planning and roadmap activity takes place internally, so you may not see much
 activity until engineering begins actively working on a reported issue.
 
@@ -29,7 +29,7 @@ Thank you so much for helping us improve our products!
 
 |                                   |                                                         |
 | --------------------------------- | ------------------------------------------------------- |                           
-| **CEM technical documentation**   | [Introducing the Compliance Enforcement Modules](https://puppet.com/docs/comply/2.x/cem_intro.html) |
-| **Links to modules on the Forge** | https://forge.puppet.com/modules/puppetlabs/cem_windows |
-|                                   | https://forge.puppet.com/modules/puppetlabs/cem_linux   |
+| **SCE technical documentation**   | [Introducing Security Compliance Enforcement](https://help.puppet.com/sce/current/intro/sce_intro.htm) |
+| **Links to modules on the Forge** | https://forge.puppet.com/modules/puppetlabs/sce_windows |
+|                                   | https://forge.puppet.com/modules/puppetlabs/sce_linux   |
 | **Puppet Community slack**        | Talk to us in the [`#compliance`](http://puppetcommunity.slack.com/app_redirect?channel=compliance) Slack channel in the [Puppet Community](https://www.puppet.com/community) |
